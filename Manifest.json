@@ -1,0 +1,11 @@
+{
+  "name": "Regulus Lite",
+  "description": "Offline Regulus-style message rewriter.",
+  "authors": [
+    {
+      "name": "Minty",
+      "id": "1252968928569856034"
+    }
+  ],
+  "version": "1.0.0"
+}
